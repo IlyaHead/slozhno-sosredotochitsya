@@ -3,14 +3,14 @@
 
   --page-bg-color: #000028;
   --accent-color: #ff0070;
-  --title-bg-accent-color: #ff0070;
-  --header-buttons-text-color: #ff0070;
+  --title-bg-accent-color: var(--accent-color);
+  --header-buttons-text-color: var(--accent-color);
   --heading-title-color: #db00ff;
-  --title-text-shadow: #ff0070;
-  --title-decor-text-color: #000028;
-  --section-header-text: #ff0070;
+  --title-text-shadow: var(--accent-color);
+  --title-decor-text-color: var(--page-bg-color);
+  --section-header-text: var(--accent-color);
   --section-text-color: #f1b2ce;
-  --link-shadow-color: #FF0070;
+  --link-shadow-color: var(--accent-color);
 
   --lamp-decoration-color: var(--accent-color);
 
@@ -23,14 +23,14 @@
 
     --page-bg-color: #000028;
     --accent-color: #ff0070;
-    --title-bg-accent-color: #ff0070;
-    --header-buttons-text-color: #ff0070;
+    --title-bg-accent-color: var(--accent-color);
+    --header-buttons-text-color: var(--accent-color);
     --heading-title-color: #db00ff;
-    --title-text-shadow: #ff0070;
-    --title-decor-text-color: #000028;
-    --section-header-text: #ff0070;
+    --title-text-shadow: var(--accent-color);
+    --title-decor-text-color: var(--page-bg-color);
+    --section-header-text: var(--accent-color);
     --section-text-color: #f1b2ce;
-    --link-shadow-color: #FF0070;
+    --link-shadow-color: var(--accent-color);
 
     --lamp-decoration-color: var(--accent-color);
 
