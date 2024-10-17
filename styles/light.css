@@ -6,7 +6,7 @@
   --title-bg-accent-color: #ff8dcb; 
   --header-buttons-text-color: var(--accent-color);
   --heading-title-color: #ffc2e6; 
-  --title-text-shadow: var(--title-bg-accent-color);
+  --title-text-shadow: #ff0070;
   --title-decor-text-color: var(--accent-color);
   --section-header-text: var(--accent-color);
   --section-text-color: var(--accent-color);
@@ -34,7 +34,7 @@
     --title-bg-accent-color: #ff8dcb; 
     --header-buttons-text-color: var(--accent-color);
     --heading-title-color: #ffc2e6; 
-    --title-text-shadow: var(--title-bg-accent-color);
+    --title-text-shadow: #ff0070;
     --title-decor-text-color: var(--accent-color);
     --section-header-text: var(--accent-color);
     --section-text-color: var(--accent-color);

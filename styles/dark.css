@@ -21,6 +21,12 @@
       margin-inline-start: -7px;
     }
   }
+
+  @media (width >= 1024px) {
+    .header__title {
+      margin-inline-start: -20px;
+    }
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -46,6 +52,12 @@
   @media (width >= 768px) {
     .header__title {
       margin-inline-start: -7px;
+    }
+  }
+
+  @media (width >= 1024px) {
+    .header__title {
+      margin-inline-start: -20px;
     }
   }
 }
