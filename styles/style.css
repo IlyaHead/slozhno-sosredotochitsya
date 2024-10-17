@@ -123,6 +123,7 @@
 }
 
 .title_decor {
+  color: var(--title-decor-text-color);
   background-color: var(--title-bg-accent-color);
 }
 
@@ -149,6 +150,7 @@
 
 .section__header,
 .card__title {
+  color: var(--title-decor-text-color);
   font-weight: bold;
   font-size: 1.125rem;
 }
