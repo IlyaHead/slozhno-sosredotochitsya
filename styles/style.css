@@ -252,7 +252,7 @@
   }
 
   .header__title {
-    margin-inline-start: -7px;
+    margin-inline-start: -20px;
   }
 
   .rec {
@@ -337,10 +337,6 @@
   .header__theme-menu {
     align-self: flex-start;
     justify-self: center;
-  }
-
-  .header__title {
-    margin-inline-start: -20px;
   }
 
   .header__theme-menu-list {
