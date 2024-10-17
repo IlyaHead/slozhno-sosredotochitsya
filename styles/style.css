@@ -18,6 +18,7 @@
 .header {
   position: relative;
   min-block-size: 668px;
+  block-size: 100vh;
   display: grid;
   grid-template-rows: 1fr min-content 1fr;
   padding: var(--global-padding);
@@ -235,6 +236,7 @@
 
 .footer {
   min-block-size: 668px;
+  block-size: 100vh;
   display: grid;
   position: relative;
 }
@@ -249,6 +251,7 @@
 
   .header {
     min-block-size: 1024px;
+    block-size: 100vh;
   }
 
   .header__title {
@@ -320,6 +323,7 @@
 
   .footer {
     min-block-size: 1024px;
+    block-size: 100vh;
   }
 
 }
@@ -332,6 +336,7 @@
 
   .header {
     min-block-size: 768px;
+    block-size: 100vh;
   }
 
   .header__theme-menu {
@@ -379,6 +384,7 @@
 
   .footer {
     min-block-size: 768px;
+    block-size: 100vh;
   }
 
   .footer__title {
