@@ -16,7 +16,14 @@
   --lamp-decoration-color: transparent;
 
   --outline: 1px solid rgba(50, 49, 45, 0.4);
+
+  @media (width >= 768px) {
+    .header__title {
+      margin-inline-start: -20px;
+    }
+  }
 }
+
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -37,5 +44,11 @@
     --lamp-decoration-color: transparent;
     
     --outline: 1px solid rgba(50, 49, 45, 0.4);
+  }
+
+  @media (width >= 768px) {
+    .header__title {
+      margin-inline-start: -20px;
+    }
   }
 }
