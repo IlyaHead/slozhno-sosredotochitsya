@@ -9,7 +9,7 @@
   --title-text-shadow: var(--accent-color);
   --title-decor-text-color: var(--page-bg-color);
   --section-header-text: var(--accent-color);
-  --section-text-color: #f1b2ce;
+  --card-text-color: #f1b2ce;
   --link-shadow-color: var(--accent-color);
 
   --lamp-decoration-color: var(--accent-color);
