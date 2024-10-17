@@ -339,6 +339,10 @@
     justify-self: center;
   }
 
+  .header__title {
+    margin-inline-start: -20px;
+  }
+
   .header__theme-menu-list {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 1fr;
